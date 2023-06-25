@@ -1,0 +1,6 @@
+D:\Archivos\Visual Studio\CRUD\CrudM\bin\Debug\CrudM.dll
+D:\Archivos\Visual Studio\CRUD\CrudM\bin\Debug\CrudM.pdb
+D:\Archivos\Visual Studio\CRUD\CrudM\obj\Debug\CrudM.csproj.AssemblyReference.cache
+D:\Archivos\Visual Studio\CRUD\CrudM\obj\Debug\CrudM.csproj.CoreCompileInputs.cache
+D:\Archivos\Visual Studio\CRUD\CrudM\obj\Debug\CrudM.dll
+D:\Archivos\Visual Studio\CRUD\CrudM\obj\Debug\CrudM.pdb

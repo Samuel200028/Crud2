@@ -1,0 +1,9 @@
+D:\Archivos\Visual Studio\CRUD\CrudVM\bin\Debug\CrudVM.dll
+D:\Archivos\Visual Studio\CRUD\CrudVM\bin\Debug\CrudVM.pdb
+D:\Archivos\Visual Studio\CRUD\CrudVM\bin\Debug\CrudM.dll
+D:\Archivos\Visual Studio\CRUD\CrudVM\bin\Debug\CrudM.pdb
+D:\Archivos\Visual Studio\CRUD\CrudVM\obj\Debug\CrudVM.csproj.AssemblyReference.cache
+D:\Archivos\Visual Studio\CRUD\CrudVM\obj\Debug\CrudVM.csproj.CoreCompileInputs.cache
+D:\Archivos\Visual Studio\CRUD\CrudVM\obj\Debug\CrudVM.csproj.CopyComplete
+D:\Archivos\Visual Studio\CRUD\CrudVM\obj\Debug\CrudVM.dll
+D:\Archivos\Visual Studio\CRUD\CrudVM\obj\Debug\CrudVM.pdb
